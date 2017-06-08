@@ -51,7 +51,7 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.22.0",
     "babel-preset-react": "^6.24.1",
     "babel-traverse": "^6.22.1",
-    "babel-types": "^6.22.0",
+    "babel-types": "^6.25.0",
     "babylon": "^6.15.0",
     "codemirror": "^5.1.0",
     "devtools-components": "^0.0.1",
